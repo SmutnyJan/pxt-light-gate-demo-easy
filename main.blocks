@@ -1,4 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="S,at!L_w8[;H#U0:;R{V" x="20" y="20"><statement name="HANDLER"><block type="lightGate_calibrate" id="R22HL,iM=|P~f0{q:T~U"><field name="tol">Deviation.Medium</field></block></statement></block><block type="lightGate_onLightLevelDrop" id="Qee+~VU7Dpm6GJ.V[G_p" x="501" y="20"><statement name="HANDLER"><block type="device_play_note" id="Z`/m#rmJ!i*P(DMKNok4"><value name="note"><shadow type="device_note" id="mnAL9l+`+RJdt1*qlH2b"><field name="name">262</field></shadow></value><value name="duration"><shadow type="device_beat" id="cLmGsgHsc:nK(xo)I6M3"><field name="fraction">BeatFraction.Whole</field></shadow></value></block></statement></block></xml>
